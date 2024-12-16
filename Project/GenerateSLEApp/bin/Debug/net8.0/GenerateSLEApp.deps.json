@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GenerateSLEApp/1.0.0": {
+        "dependencies": {
+          "SLELibrary": "1.0.0"
+        },
+        "runtime": {
+          "GenerateSLEApp.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "MatrixLibrary/1.0.0": {
+        "runtime": {
+          "MatrixLibrary.dll": {}
+        }
+      },
+      "SLELibrary/1.0.0": {
+        "dependencies": {
+          "MatrixLibrary": "1.0.0",
+          "Newtonsoft.Json": "13.0.3",
+          "SolverApp": "1.0.0",
+          "TaskDataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SLELibrary.dll": {}
+        }
+      },
+      "SolverApp/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "TaskDataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SolverApp.dll": {}
+        }
+      },
+      "TaskDataLibrary/1.0.0": {
+        "runtime": {
+          "TaskDataLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenerateSLEApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "MatrixLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SLELibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolverApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskDataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

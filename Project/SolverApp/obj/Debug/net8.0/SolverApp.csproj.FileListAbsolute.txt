@@ -1,0 +1,40 @@
+D:\Project\SolverApp\bin\Debug\net8.0\SolverApp.exe
+D:\Project\SolverApp\bin\Debug\net8.0\SolverApp.deps.json
+D:\Project\SolverApp\bin\Debug\net8.0\SolverApp.runtimeconfig.json
+D:\Project\SolverApp\bin\Debug\net8.0\SolverApp.dll
+D:\Project\SolverApp\bin\Debug\net8.0\SolverApp.pdb
+D:\Project\SolverApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\SolverApp\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Project\SolverApp\bin\Debug\net8.0\SLELibrary.dll
+D:\Project\SolverApp\bin\Debug\net8.0\SLELibrary.pdb
+D:\Project\SolverApp\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.csproj.AssemblyReference.cache
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.AssemblyInfoInputs.cache
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.AssemblyInfo.cs
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.csproj.CoreCompileInputs.cache
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.csproj.CopyComplete
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.dll
+D:\Project\SolverApp\obj\Debug\net8.0\refint\SolverApp.dll
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.pdb
+D:\Project\SolverApp\obj\Debug\net8.0\SolverApp.genruntimeconfig.cache
+D:\Project\SolverApp\obj\Debug\net8.0\ref\SolverApp.dll
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\SolverApp.exe
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\SolverApp.deps.json
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\SolverApp.runtimeconfig.json
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\SolverApp.dll
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\SolverApp.pdb
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.csproj.AssemblyReference.cache
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.AssemblyInfoInputs.cache
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.AssemblyInfo.cs
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.csproj.CoreCompileInputs.cache
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.csproj.CopyComplete
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.dll
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\refint\SolverApp.dll
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.pdb
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\SolverApp.genruntimeconfig.cache
+D:\Course Project (DIS)\App\Project\SolverApp\obj\Debug\net8.0\ref\SolverApp.dll
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\SolverApp\bin\Debug\net8.0\TaskDataLibrary.pdb

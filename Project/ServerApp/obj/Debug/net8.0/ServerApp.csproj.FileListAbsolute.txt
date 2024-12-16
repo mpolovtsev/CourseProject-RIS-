@@ -1,0 +1,54 @@
+D:\Project\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\Project\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\Project\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\Project\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\Project\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\Project\ServerApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\ServerApp\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Project\ServerApp\bin\Debug\net8.0\SLELibrary.dll
+D:\Project\ServerApp\bin\Debug\net8.0\SLELibrary.pdb
+D:\Project\ServerApp\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.csproj.AssemblyReference.cache
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CopyComplete
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\Project\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\Project\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\Project\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
+D:\Project\ServerApp\bin\Debug\net8.0\SolverApp.deps.json
+D:\Project\ServerApp\bin\Debug\net8.0\SolverApp.runtimeconfig.json
+D:\Project\ServerApp\bin\Debug\net8.0\SolverApp.exe
+D:\Project\ServerApp\bin\Debug\net8.0\SolverApp.dll
+D:\Project\ServerApp\bin\Debug\net8.0\SolverApp.pdb
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SolverApp.deps.json
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SolverApp.runtimeconfig.json
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SolverApp.exe
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SolverApp.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SLELibrary.pdb
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\SolverApp.pdb
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.csproj.AssemblyReference.cache
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CopyComplete
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\Course Project (DIS)\App\Project\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\ServerApp\bin\Debug\net8.0\TaskDataLibrary.pdb

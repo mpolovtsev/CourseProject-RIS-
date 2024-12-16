@@ -1,0 +1,22 @@
+D:\Project\MatrixLibrary\bin\Debug\net8.0\MatrixLibrary.deps.json
+D:\Project\MatrixLibrary\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Project\MatrixLibrary\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.AssemblyInfoInputs.cache
+D:\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.AssemblyInfo.cs
+D:\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.csproj.CoreCompileInputs.cache
+D:\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.dll
+D:\Project\MatrixLibrary\obj\Debug\net8.0\refint\MatrixLibrary.dll
+D:\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.pdb
+D:\Project\MatrixLibrary\obj\Debug\net8.0\ref\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\MatrixLibrary\bin\Debug\net8.0\MatrixLibrary.deps.json
+D:\Course Project (DIS)\App\Project\MatrixLibrary\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\MatrixLibrary\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.AssemblyInfoInputs.cache
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.AssemblyInfo.cs
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.csproj.CoreCompileInputs.cache
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\refint\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\MatrixLibrary.pdb
+D:\Course Project (DIS)\App\Project\MatrixLibrary\obj\Debug\net8.0\ref\MatrixLibrary.dll

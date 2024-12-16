@@ -1,0 +1,11 @@
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\bin\Debug\net8.0\TaskDataLibrary.deps.json
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\bin\Debug\net8.0\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\bin\Debug\net8.0\TaskDataLibrary.pdb
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\TaskDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\TaskDataLibrary.AssemblyInfoInputs.cache
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\TaskDataLibrary.AssemblyInfo.cs
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\TaskDataLibrary.csproj.CoreCompileInputs.cache
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\refint\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\TaskDataLibrary.pdb
+D:\Course Project (DIS)\App\Project\TaskDataLibrary\obj\Debug\net8.0\ref\TaskDataLibrary.dll

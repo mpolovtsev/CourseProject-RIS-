@@ -1,0 +1,385 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Решение СЛАУ методом Зейделя</title>
+
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+            body {
+                background-color: #f4f7fc;
+                margin: 0;
+                padding: 0;
+                font-family: "Mulish", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 400;
+                font-style: normal;
+            }
+
+            .header {
+                padding: 20px;
+                text-align: center;
+                background-color: #3E5F8A;
+                color: #ffffff;
+            }
+
+            .container {
+                width: 85%;
+                margin: 30px auto;
+                padding: 20px;
+                text-align: center;
+                background-color: #ffffff;
+                border-radius: 8px;
+                box-shadow: 2px 2px 5px #000000;
+            }
+
+            .matrix-table {
+                margin: 0px auto;
+            }
+
+            .matrix-input {
+                width: 50px;
+                font-size: 16px;
+                border-color: #000000;
+                border-radius: 5px;
+            }
+
+            .matrix-input-error {
+                background-color: #ffdddd;
+                border-color: #fc4e4e;
+            }
+
+            .matrix-span {
+                font-size: 18px;
+            }
+
+            .add-delete-container {
+                width: 200px;
+                margin: 20px auto 0px auto;
+            }
+
+            .add-delete-btn, .submit-btn {
+                height: 32px;
+                line-height: 32px;
+                margin: 0px 10px;
+                padding: 0px 30px;
+                color: white;
+                background-color: #3775dd;
+                border: none;
+                border-radius: 8px;
+                font-size: 25px;
+                box-shadow: 2px 2px 5px #000000;
+                cursor: pointer;
+            }
+
+            .add-delete-btn:hover, .submit-btn:hover {
+                background-color: #002fed;
+            }
+
+            .add-delete-btn:disabled {
+                background-color: #6c87b5;
+                pointer-events: none;
+            }
+
+            .submit-container {
+                margin: 20px auto 0px auto;
+            }
+
+            .response-container {
+                text-align: center;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <header class="header">
+            <h1>Решение СЛАУ методом Зейделя</h1>
+        </header>
+
+        <div class="container">
+            <form id="form-sle">
+                <table id="matrix-table" class="matrix-table"></table>
+
+                <div class="add-delete-container">
+                    <button type="button" id="add-row-btn" class="add-delete-btn">+</button>
+                    <button type="button" id="delete-row-btn" class="add-delete-btn">-</button>
+                </div>
+
+                <div class="submit-container">
+                    <button class="submit-btn">Решить</button>
+                </div>
+            </form>
+
+            <form id="form-json">
+                <div class="submit-container">
+                    <input type="file" id="file-input" accept=".json" />
+                    <button class="submit-btn">Отправить JSON</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="response-container" id="response-container"></div>
+
+        <script>
+            const formSle = document.getElementById('form-sle')
+            const formJson = document.getElementById('form-json')
+            const matrix = document.getElementById('matrix-table')
+            const addRowBtn = document.getElementById('add-row-btn')
+            const deleteRowBtn = document.getElementById('delete-row-btn')
+            const fileInput = document.getElementById('file-input')
+            const responseContainer = document.getElementById('response-container')
+
+            const minSize = 2
+            const maxSize = 9
+            let matrixSize = minSize
+
+            // Функция создания полей для ввода системы
+            function createFields() {
+                matrix.innerHTML = ''
+
+                for (let i = 0; i < matrixSize; i++) {
+                    const row = document.createElement('tr')
+
+                    for (let j = 0; j < matrixSize; j++) {
+                        const inputCell = document.createElement('td')
+                        const input = document.createElement('input')
+                        input.type = 'number'
+                        input.className = 'matrix-input'
+                        inputCell.appendChild(input)
+
+                        const xSpan = document.createElement('span')
+                        xSpan.textContent = ' · x'
+                        xSpan.className = 'matrix-span'
+                        const firstIndex = document.createElement('sub')
+                        firstIndex.textContent = `${i + 1}`
+                        xSpan.appendChild(firstIndex)
+                        const secondIndex = document.createElement('sub')
+                        secondIndex.textContent = `${j + 1}`
+                        xSpan.appendChild(secondIndex)
+                        inputCell.appendChild(xSpan)
+                        row.appendChild(inputCell)
+
+                        const signCell = document.createElement('td')
+                        const signSpan = document.createElement('span')
+                        signSpan.textContent = j != matrixSize - 1 ? '+' : '='
+                        signSpan.className = 'matrix-span'
+                        signCell.appendChild(signSpan)
+                        row.appendChild(signCell)
+                    }
+
+                    const freeColumnCell = document.createElement('td')
+                    const freeColumnInput = document.createElement('input')
+                    freeColumnInput.type = 'number'
+                    freeColumnInput.className = 'matrix-input'
+                    freeColumnCell.appendChild(freeColumnInput)
+                    row.appendChild(freeColumnCell)
+
+                    matrix.appendChild(row)
+                }
+
+                updateButtonsStates()
+            }
+
+            // Функция обновления состояния кнопок
+            function updateButtonsStates() {
+                addRowBtn.disabled = matrixSize >= maxSize
+                deleteRowBtn.disabled = matrixSize <= minSize
+            }
+
+            // Функция добавления строки и столбца
+            addRowBtn.addEventListener('click', () => {
+                if (matrixSize < maxSize) {
+                    matrixSize++
+                    createFields()
+                }
+            })
+
+            // Функция удаления строки и столбца
+            deleteRowBtn.addEventListener('click', () => {
+                if (matrixSize > minSize) {
+                    matrixSize--
+                    createFields()
+                }
+            })
+
+            // Функция компоновки данных полей в объект
+            function getFormData() {
+                const systemMatrix = []
+                const freeMembersVector = []
+                const rows = matrix.getElementsByTagName('tr')
+
+                for (let i = 0; i < rows.length; i++) {
+                    const cells = rows[i].getElementsByTagName('td')
+
+                    for (let j = 0; j <= 2 * matrixSize; j += 2) {
+                        const input = cells[j].getElementsByTagName('input')[0]
+                        input.classList.remove('matrix-input-error')
+                    }
+                }
+
+                for (let i = 0; i < rows.length; i++) {
+                    if (!validateRow(rows[i])) {
+                        displayErrorMatrix()
+                        return null
+                    }
+                }
+
+                for (let i = 0; i < rows.length; i++) {
+                    const cells = rows[i].getElementsByTagName('td')
+                    const row = []
+
+                    for (let j = 0; j < 2 * matrixSize; j += 2) {
+                        const input = cells[j].getElementsByTagName('input')[0]
+                        row.push(Number(input.value))
+                    }
+
+                    systemMatrix.push(row)
+
+                    const freeMemberInput = cells[2 * matrixSize].getElementsByTagName('input')[0]
+                    freeMembersVector.push(Number(freeMemberInput.value))
+                }
+
+                return {
+                    system_matrix: systemMatrix,
+                    free_members_vector: freeMembersVector
+                }
+            }
+
+            // Функция отправки данных на сервер
+            async function sendJsonToServer(json, source) {
+                await fetch("http://localhost:8080", {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Source': source
+                    },
+                    body: json
+                })
+                .then(response => {
+                    if (source == 'Fields')
+                        return response.text()
+                    else if (source == "File")
+                        return response.blob()
+                })
+                .then(response => {
+                    if (source == 'Fields') {
+                        responseContainer.innerHTML = `<h1>Результат решения СЛАУ</h1><p>${response}</p>`
+                    }
+                    else if (source == "File") {
+                        let link = document.createElement('a')
+                        link.href = URL.createObjectURL(response)
+                        link.download = 'response.json'
+                        link.click()
+                        responseContainer.innerHTML = '<h1>Результат решения СЛАУ</h1><p>Результат решения СЛАУ находится в скачанном файле.</p>'
+                    }
+                })
+                .catch(error => {
+                    responseContainer.innerHTML = '<h1>Ошибка</h1><p>Ошибка при отправке данных.</p>'
+                })
+            }
+
+            // Функция подготовки данных из полей
+            formSle.addEventListener('submit', async (event) => {
+                event.preventDefault()
+                const obj = getFormData()
+
+                if (obj == null)
+                    return
+
+                const json = JSON.stringify(obj)
+                sendJsonToServer(json, 'Fields')
+            });
+
+            // Функция подготовки данных из json-файла
+            formJson.addEventListener('submit', async (event) => {
+                event.preventDefault()
+                const file = fileInput.files[0]
+
+                if (file) {
+                    const reader = new FileReader()
+                    reader.readAsText(file)
+
+                    reader.onload = function () {
+                        const json = JSON.stringify(JSON.parse(reader.result))
+
+                        sendJsonToServer(json, 'File')
+                    }
+
+                    reader.onerror = function () {
+                        responseContainer.innerHTML = "<h1>Ошибка</h1><p>Ошибка при чтении файла.</p>"
+                    }
+                }
+                else
+                    responseContainer.innerHTML = "<h1>Ошибка</h1><p>Необходимо загрузить файл.</p>"
+            });
+
+            // Функция валидации строки матрицы
+            function validateRow(row) {
+                const cells = row.getElementsByTagName('td')
+
+                for (let i = 0; i <= 2 * matrixSize; i += 2) {
+                    const input = cells[i].getElementsByTagName('input')[0]
+
+                    if (input.value.trim() === '')
+                        return false
+                }
+
+                return true
+            }
+
+            // Функция валидации json-файла
+            function validateJson(json) {
+                const rowsCount = json.system_matrix.length
+
+                for (let i = 0; i < rowsCount; i++)
+                    if (json.system_matrix[i].length != rowsCount)
+                        return false
+
+                if (json.free_members_vector.length != rowsCount)
+                    return false
+
+                for (let i = 0; i < rowsCount; i++) {
+                    for (let j = 0; j < json.system_matrix[i].length; j++) {
+                        if (json.system_matrix[i][j] === '' || typeof (json.system_matrix[i][j]) != 'number' ||
+                            isNaN(json.system_matrix[i][j]) || !isFinite(json.system_matrix[i][j]))
+                            return false
+                    }
+                }
+
+                for (let i = 0; i < json.free_members_vector.length; i++) {
+                    if (json.free_members_vector[i] === '' || typeof (json.free_members_vector[i]) != 'number' ||
+                        isNaN(json.free_members_vector[i]) || !isFinite(json.free_members_vector[i]))
+                        return false
+                }
+
+                return true
+            }
+
+            // Функция отображения ошибки при вводе матрицы
+            function displayErrorMatrix() {
+                const rows = matrix.getElementsByTagName('tr')
+
+                for (let i = 0; i < rows.length; i++) {
+                    const cells = rows[i].getElementsByTagName('td')
+
+                    for (let j = 0; j <= 2 * matrixSize; j += 2) {
+                        const input = cells[j].getElementsByTagName('input')[0]
+
+                        if (input.value.trim() == '')
+                            input.classList.add('matrix-input-error')
+                    }
+                }
+
+                responseContainer.innerHTML = "<h1>Ошибка</h1><p>Необходимо заполнить все поля.</p>"
+            }
+
+            createFields()
+        </script>
+
+    </body>
+</html>

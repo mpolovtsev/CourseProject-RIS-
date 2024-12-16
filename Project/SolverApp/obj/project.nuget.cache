@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A33m87p/ukH8xaMgrJjAWdb2lW3PZq62Kdn+IHClYVGeZhZ1T6vCDqRmZzUO5rOSnYa5VvgNKnIhbYhokV0ShQ==",
+  "success": true,
+  "projectFilePath": "D:\\Course Project (DIS)\\App\\Project\\SolverApp\\SolverApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAKSIM\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

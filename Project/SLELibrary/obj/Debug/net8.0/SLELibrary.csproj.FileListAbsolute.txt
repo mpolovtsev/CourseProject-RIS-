@@ -1,0 +1,37 @@
+D:\Project\SLELibrary\bin\Debug\net8.0\SLELibrary.deps.json
+D:\Project\SLELibrary\bin\Debug\net8.0\SLELibrary.dll
+D:\Project\SLELibrary\bin\Debug\net8.0\SLELibrary.pdb
+D:\Project\SLELibrary\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Project\SLELibrary\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.csproj.AssemblyReference.cache
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.AssemblyInfoInputs.cache
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.AssemblyInfo.cs
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.csproj.CoreCompileInputs.cache
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.csproj.CopyComplete
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.dll
+D:\Project\SLELibrary\obj\Debug\net8.0\refint\SLELibrary.dll
+D:\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.pdb
+D:\Project\SLELibrary\obj\Debug\net8.0\ref\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SLELibrary.deps.json
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SLELibrary.pdb
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.csproj.AssemblyReference.cache
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.AssemblyInfoInputs.cache
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.AssemblyInfo.cs
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.csproj.CoreCompileInputs.cache
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.csproj.CopyComplete
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\refint\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\SLELibrary.pdb
+D:\Course Project (DIS)\App\Project\SLELibrary\obj\Debug\net8.0\ref\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SolverApp.deps.json
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SolverApp.runtimeconfig.json
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SolverApp.exe
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SolverApp.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\SolverApp.pdb
+D:\Course Project (DIS)\App\Project\SLELibrary\bin\Debug\net8.0\TaskDataLibrary.pdb

@@ -1,0 +1,239 @@
+D:\Project\UnitTesting\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTesting
+D:\Project\UnitTesting\bin\Debug\net8.0\testhost.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\testhost.exe
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.deps.json
+D:\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.runtimeconfig.json
+D:\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.pdb
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\SLELibrary.dll
+D:\Project\UnitTesting\bin\Debug\net8.0\SLELibrary.pdb
+D:\Project\UnitTesting\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.AssemblyReference.cache
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfoInputs.cache
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfo.cs
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CoreCompileInputs.cache
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CopyComplete
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.dll
+D:\Project\UnitTesting\obj\Debug\net8.0\refint\UnitTesting.dll
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.pdb
+D:\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.genruntimeconfig.cache
+D:\Project\UnitTesting\obj\Debug\net8.0\ref\UnitTesting.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTesting
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\testhost.exe
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\testhost.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SolverApp.deps.json
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SolverApp.runtimeconfig.json
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SolverApp.exe
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.deps.json
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.runtimeconfig.json
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\UnitTesting.pdb
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\MatrixLibrary.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SLELibrary.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SolverApp.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\TaskDataLibrary.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SLELibrary.pdb
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\MatrixLibrary.pdb
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\SolverApp.pdb
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\TaskDataLibrary.pdb
+D:\Course Project (DIS)\App\Project\UnitTesting\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.AssemblyReference.cache
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfoInputs.cache
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfo.cs
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CoreCompileInputs.cache
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CopyComplete
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\refint\UnitTesting.dll
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.pdb
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\UnitTesting.genruntimeconfig.cache
+D:\Course Project (DIS)\App\Project\UnitTesting\obj\Debug\net8.0\ref\UnitTesting.dll
